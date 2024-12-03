@@ -53,8 +53,8 @@ Passos para rodar o projeto:
    ```bash
    git clone https://github.com/LeviAdler05/Melhores_Templates.git
 
-Mova os arquivos para a pasta htdocs do XAMPP.
+2. Mova os arquivos para a pasta htdocs do XAMPP.
 
-Abra o navegador e acesse o localhost
+3. Abra o navegador e acesse o localhost
 
    
